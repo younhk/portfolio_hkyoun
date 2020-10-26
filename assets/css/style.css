@@ -641,7 +641,7 @@ input::-ms-input-placeholder {
 
 /*home section*/
 .home{width: 100%;height: auto;
-    background: url(../images/homebg.jpg) no-repeat 100% 100%;
+    background: url(../images/homebg.jpg) no-repeat 50% 50%;
 }
 
 .home .main_home{
@@ -705,6 +705,7 @@ input::-ms-input-placeholder {
 
 .nav-tabs>li.active>a, .nav-tabs>li.active>a:hover, .nav-tabs>li.active>a:focus{
     border:0px;
+    
 }
 .nav-tabs {
     border-bottom: 0px solid transparent;
